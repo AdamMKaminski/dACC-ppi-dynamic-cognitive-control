@@ -1,4 +1,6 @@
 % CONN output; get images
+% Adapted from CANlab Core Toolbox 
+% https://canlab.github.io/_pages/tutorials/html/mediation_brain_multilevel_walkthrough1.html
 
 cd '/fmri2/projects/RDoC/PPIproject/Fall_rotation_2019/conn_files/conn_project01_fmriprep_ALL_schaefer_mask/results/secondlevel/SocStroop_SBC_04/con_adapt_motion'
 
